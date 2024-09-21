@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pavans2k1
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Ruby on rails
